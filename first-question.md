@@ -1,1 +1,2 @@
-This is the answer to "What is XYZ?".
+https://easywpguide.com/wordpress-manual/
+
