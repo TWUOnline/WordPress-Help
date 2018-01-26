@@ -1,2 +1,6 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.https://codex.wordpress.org/First\_Steps\_With\_WordPress\#Log\_In
+TWU hosts two separate installations of WordPress; [create.twu.ca](https://create.twu.ca ) and [books.twu.ca](https://books.twu.ca).
+
+Create.twu.ca is a standard WordPress multi-site installation that is available for student, faculty and staff use. Clicking on the link above will take you to a page where you can either sign in or create an account and a new site for yourself. Registrations are limited to those users who have a '...@twu.ca' or a '...@mytwu.ca' email address.
+
+Books.twu.ca is a customized installation utilizing the PressBooks plugin to enable the creation, hosting, and cloning of open textbooks or other books. Please contact colin.madland\[at\]twu\[dot\]ca for assistance.
 
