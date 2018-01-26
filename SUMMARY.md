@@ -1,4 +1,5 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [Introduction](README.md)
+* [Links to WordPress Help](links-to-wordpress-help.md)
+
