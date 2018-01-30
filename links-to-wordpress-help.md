@@ -6,11 +6,11 @@
 
 ## Dashboard
 
-[Option 1](http://umw.domains/wordpress-basics/#dashboard)
+#### [Option 1](http://umw.domains/wordpress-basics/#dashboard)
 
-[Option 2](https://easywpguide.com/wordpress-manual/dashboard/)
+#### [Option 2](https://easywpguide.com/wordpress-manual/dashboard/)
 
-##### Dashboard Menu Options:
+#### Dashboard Menu Options:
 
 [https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/](https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/)
 
