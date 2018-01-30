@@ -1,4 +1,4 @@
-### Getting Started
+# Getting Started
 
 ##### Please visit these links to assist you in creating an account with WordPress and setting up your dashboard.
 
