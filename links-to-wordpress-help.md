@@ -24,7 +24,7 @@
 
 ## Media
 
-##### Please visit these links to assist you with using media \(ie. images, audio, video, and documents\) in WordPress.
+##### Please visit these links to assist you with using media \(ie. images, audio, video, and documents\) in WordPress. 
 
 #### [**Tutorial 1**](http://umw.domains/wordpress-basics/#media)
 
