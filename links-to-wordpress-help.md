@@ -1,82 +1,66 @@
-# Getting Started
+## Getting Started
 
 ##### Please visit these links to assist you in creating an account with WordPress and setting up your dashboard.
 
 #### [Logging in](https://easywpguide.com/wordpress-manual/login/)
 
-## Dashboard
+#### Dashboard:
 
-#### [Option 1](http://umw.domains/wordpress-basics/#dashboard)
+#### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard)
 
-#### [Option 2](https://easywpguide.com/wordpress-manual/dashboard/)
+#### [Tutorial 2](https://easywpguide.com/wordpress-manual/dashboard/)
 
-#### Dashboard Menu Options:
+#### [Dashboard Menu Options](https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/)
 
-[https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/](https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/)
-
-### Posts & Pages
+## Posts & Pages
 
 ##### Please visit these links to assist you with creating a "post" or a "page" in WordPress, and an explanation of how they differ.
 
-Explanation of the difference:
+#### [**Explanation of the difference**](http://umw.domains/wordpress-basics/#posts)
 
-[http://umw.domains/wordpress-basics/\#posts](http://umw.domains/wordpress-basics/#posts)
+#### [Create a post](https://codex.wordpress.org/Writing_Posts)
 
-Create a post:
+#### [Create a page](https://codex.wordpress.org/Pages)
 
-[https://codex.wordpress.org/Writing\_Posts](https://codex.wordpress.org/Writing_Posts)
-
-Create a page:
-
-[https://codex.wordpress.org/Pages](https://codex.wordpress.org/Pages)
-
-### Media
+## Media
 
 ##### Please visit these links to assist you with using media \(ie. images, audio, video, and documents\) in WordPress.
 
-Media:
+#### [**Tutorial 1**](http://umw.domains/wordpress-basics/#media)
 
-[http://umw.domains/wordpress-basics/\#media](http://umw.domains/wordpress-basics/#media)
+#### [**Tutorial 2**](https://easywpguide.com/wordpress-manual/adding-images-other-media/)
 
-[https://easywpguide.com/wordpress-manual/adding-images-other-media/](https://easywpguide.com/wordpress-manual/adding-images-other-media/)
+#### [Tutorial 3](https://easywpguide.com/wordpress-manual/media-library/)
 
-[https://easywpguide.com/wordpress-manual/media-library/](https://easywpguide.com/wordpress-manual/media-library/)
-
-### Customizing your Site - Themes
+## Customizing your Site - Themes
 
 ##### Please visit these links to assist you with using themes.
 
-Overview of customizing site:
+#### [**Overview of customizing site**](https://easywpguide.com/wordpress-manual/appearance/customizing-your-site/)
 
-[https://easywpguide.com/wordpress-manual/appearance/customizing-your-site/](https://easywpguide.com/wordpress-manual/appearance/customizing-your-site/)
+#### Adding themes:
 
-Adding themes:
+#### [**Tutorial 1**](https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/adding-new-theme/)
 
-[https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/adding-new-theme/](https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/adding-new-theme/)
+#### [Tutorial 2](https://codex.wordpress.org/Using_Themes)
 
-[https://codex.wordpress.org/Using\_Themes](https://codex.wordpress.org/Using_Themes)
+#### [Tutorial 3](http://umw.domains/wordpress-basics/#theme)
 
-[http://umw.domains/wordpress-basics/\#theme](http://umw.domains/wordpress-basics/#theme)
+#### [Previewing and Customizing your Theme](https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/previewing-and-customizing-your-theme/)
 
-Previewing and Customizing your Theme
+## Deleting Content
 
-[https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/previewing-and-customizing-your-theme/](https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/previewing-and-customizing-your-theme/)
+##### Please visit these links to assist you in deleting Pages, Posts and files from the Media Library.
 
-### Deleting Content
+#### [Page & Posts](https://easywpguide.com/wordpress-manual/adding-images-other-media/)
 
-##### Please visit this link to assist you in deleting Pages, Posts and files from the Media Library.
+#### [Media Library](https://easywpguide.com/wordpress-manual/media-library/deleting-a-file-from-the-media-library/)
 
-Page & Posts:
+## Approving & Unapproving Comments
 
-[https://easywpguide.com/wordpress-manual/adding-images-other-media/](https://easywpguide.com/wordpress-manual/adding-images-other-media/)
+##### Please visit this link to assist you in approving and unapproving comments.
 
-Media Library:
+#### [**Approving & Unapproving**](https://easywpguide.com/wordpress-manual/comments/unapproving-and-approving-comments/)
 
-[https://easywpguide.com/wordpress-manual/media-library/deleting-a-file-from-the-media-library/](https://easywpguide.com/wordpress-manual/media-library/deleting-a-file-from-the-media-library/)
 
-### Unapproving & Approving Comments
-
-##### Please visit this link to assist you in unapproving and approving comments.
-
-[https://easywpguide.com/wordpress-manual/comments/unapproving-and-approving-comments/](https://easywpguide.com/wordpress-manual/comments/unapproving-and-approving-comments/)
 
