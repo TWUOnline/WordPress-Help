@@ -62,8 +62,6 @@
 
 #### [**Approving & Unapproving**](https://easywpguide.com/wordpress-manual/comments/unapproving-and-approving-comments/)
 
-
-
 ## Plugins
 
 ##### Please visit these links to assist you in understanding and utilizing plugins.
@@ -76,15 +74,11 @@
 
 #### [Tutorial 3](https://easywpguide.com/wordpress-manual/plugins/)
 
-
-
 ## General Settings
 
 ##### Please visit these links to assist you in navigating 'general settings'.
 
 #### [Tutorial 1](https://easywpguide.com/wordpress-manual/settings/general/)
-
-
 
 ## Widgets
 
@@ -94,17 +88,13 @@
 
 #### [Tutorial 2](https://easywpguide.com/wordpress-manual/appearance/widgets/)
 
-
-
 ## Post Settings
 
-##### Please visit these links to assist you in understanding post settings. 
+##### Please visit these links to assist you in understanding post settings.
 
-#### Publishing & Saving Content
+#### [Publishing & Saving Content](https://easywpguide.com/wordpress-manual/saving-and-publishing-content/)
 
 #### [Adding Categories Within Post](https://easywpguide.com/wordpress-manual/categories/adding-categories-within-your-post/)
-
-
 
 
 
