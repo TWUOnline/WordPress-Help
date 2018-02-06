@@ -6,7 +6,7 @@
 
 #### Dashboard:
 
-#### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard)
+#### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard) \(video\)
 
 #### [Tutorial 2](https://easywpguide.com/wordpress-manual/dashboard/)
 
@@ -16,7 +16,7 @@
 
 ##### Please visit these links to assist you with creating a "post" or a "page" in WordPress, and an explanation of how they differ.
 
-#### [**Explanation of the difference**](http://umw.domains/wordpress-basics/#posts)
+#### [**Explanation of the difference**](http://umw.domains/wordpress-basics/#posts) \(video\)
 
 #### [Create a post](https://codex.wordpress.org/Writing_Posts)
 
@@ -24,9 +24,9 @@
 
 ## Media
 
-##### Please visit these links to assist you with using media \(ie. images, audio, video, and documents\) in WordPress. 
+##### Please visit these links to assist you with using media \(ie. images, audio, video, and documents\) in WordPress.
 
-#### [**Tutorial 1**](http://umw.domains/wordpress-basics/#media)
+#### [**Tutorial 1**](http://umw.domains/wordpress-basics/#media) \(video\)
 
 #### [**Tutorial 2**](https://easywpguide.com/wordpress-manual/adding-images-other-media/)
 
@@ -44,7 +44,7 @@
 
 #### [Tutorial 2](https://codex.wordpress.org/Using_Themes)
 
-#### [Tutorial 3](http://umw.domains/wordpress-basics/#theme)
+#### [Tutorial 3](http://umw.domains/wordpress-basics/#theme) \(video\)
 
 #### [Previewing and Customizing your Theme](https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/previewing-and-customizing-your-theme/)
 
@@ -61,6 +61,50 @@
 ##### Please visit this link to assist you in approving and unapproving comments.
 
 #### [**Approving & Unapproving**](https://easywpguide.com/wordpress-manual/comments/unapproving-and-approving-comments/)
+
+
+
+## Plugins
+
+##### Please visit these links to assist you in understanding and utilizing plugins.
+
+#### Managing & Installing Plugins:
+
+#### [Tutorial 1](https://codex.wordpress.org/Managing_Plugins)
+
+#### [Tutorial 2](http://umw.domains/wordpress-basics/#plugin) \(video\)
+
+#### [Tutorial 3](https://easywpguide.com/wordpress-manual/plugins/)
+
+
+
+## General Settings
+
+##### Please visit these links to assist you in navigating 'general settings'.
+
+#### [Tutorial 1](https://easywpguide.com/wordpress-manual/settings/general/)
+
+
+
+## Widgets
+
+##### Please visit these links to assist you in using widgets.
+
+#### [Tutorial 1](http://umw.domains/wordpress-basics/#widget) \(video\)
+
+#### [Tutorial 2](https://easywpguide.com/wordpress-manual/appearance/widgets/)
+
+
+
+## Post Settings
+
+##### Please visit these links to assist you in understanding post settings. 
+
+#### Publishing & Saving Content
+
+#### [Adding Categories Within Post](https://easywpguide.com/wordpress-manual/categories/adding-categories-within-your-post/)
+
+
 
 
 
