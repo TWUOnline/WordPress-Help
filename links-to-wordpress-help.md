@@ -76,7 +76,7 @@
 
 ## General Settings
 
-##### Please visit these links to assist you in navigating 'general settings'.
+##### Please visit this link to assist you in navigating 'general settings'.
 
 #### [Tutorial 1](https://easywpguide.com/wordpress-manual/settings/general/)
 
@@ -95,6 +95,38 @@
 #### [Publishing & Saving Content](https://easywpguide.com/wordpress-manual/saving-and-publishing-content/)
 
 #### [Adding Categories Within Post](https://easywpguide.com/wordpress-manual/categories/adding-categories-within-your-post/)
+
+
+
+## Menus
+
+##### Please visit these themes to assist you in understanding the functions of the menu.
+
+#### [Understanding & Navigating the Menu](http://umw.domains/wordpress-basics/#menu)
+
+#### [Adding a New Menu](https://easywpguide.com/wordpress-manual/appearance/updating-the-menu/adding-a-new-menu-item/)
+
+#### [Updating the Menu](https://easywpguide.com/wordpress-manual/appearance/updating-the-menu/)
+
+
+
+## Users
+
+##### Please visit these links to assist you with adding and deleting users.
+
+#### [User Page](https://easywpguide.com/wordpress-manual/users/)
+
+#### [Adding a User](https://easywpguide.com/wordpress-manual/users/adding-a-new-user/)
+
+#### [Deleting a User](https://easywpguide.com/wordpress-manual/users/deleting-a-user/)
+
+## FAQ About Wordpress
+
+##### Please visit this link to visit a Frequently Asked Questions page on Wordpress.
+
+#### [FAQ](https://codex.wordpress.org/FAQ_About_WordPress)
+
+#### 
 
 
 
