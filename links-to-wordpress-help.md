@@ -100,7 +100,7 @@
 
 ##### Please visit these themes to assist you in understanding the functions of the menu.
 
-#### [Understanding & Navigating the Menu](http://umw.domains/wordpress-basics/#menu)
+#### [Understanding & Navigating the Menu](http://umw.domains/wordpress-basics/#menu) \(Video\)
 
 #### [Adding a New Menu](https://easywpguide.com/wordpress-manual/appearance/updating-the-menu/adding-a-new-menu-item/)
 
