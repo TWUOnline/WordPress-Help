@@ -96,8 +96,6 @@
 
 #### [Adding Categories Within Post](https://easywpguide.com/wordpress-manual/categories/adding-categories-within-your-post/)
 
-
-
 ## Menus
 
 ##### Please visit these themes to assist you in understanding the functions of the menu.
@@ -107,8 +105,6 @@
 #### [Adding a New Menu](https://easywpguide.com/wordpress-manual/appearance/updating-the-menu/adding-a-new-menu-item/)
 
 #### [Updating the Menu](https://easywpguide.com/wordpress-manual/appearance/updating-the-menu/)
-
-
 
 ## Users
 
@@ -122,7 +118,7 @@
 
 ## FAQ About Wordpress
 
-##### Please visit this link to visit a Frequently Asked Questions page on Wordpress.
+##### Please visit this link to visit a Frequently Asked Questions page for Wordpress.
 
 #### [FAQ](https://codex.wordpress.org/FAQ_About_WordPress)
 
