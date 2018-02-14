@@ -1,4 +1,4 @@
-## Customizing Your Site - Themes
+## Customizing Your Site Utilizing Themes
 
 ##### These links will assist you in adding Themes.
 
