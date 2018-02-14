@@ -1,10 +1,10 @@
 ## Getting Started
 
-##### Please visit these links to assist you in creating an account with WordPress and setting up your dashboard.
+##### These links will assist you in creating an account with WordPress and setting up your dashboard.
 
 #### [Logging in](https://easywpguide.com/wordpress-manual/login/)
 
-#### Dashboard:
+#### Dashboard
 
 #### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard) \(video\)
 
