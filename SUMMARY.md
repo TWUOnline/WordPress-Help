@@ -7,4 +7,5 @@
 * [Adding Media](adding-media.md)
 * [Customizing Your Site](customizing-your-site.md)
 * [Deleting Content](deleting-content.md)
+* [Utilizing Polgins](utilizing-polgins.md)
 
