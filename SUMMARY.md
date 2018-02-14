@@ -7,7 +7,7 @@
 * [Adding Media](adding-media.md)
 * [Customizing Your Site](customizing-your-site.md)
 * [Deleting Content](deleting-content.md)
-* [Utilizing Polgins](utilizing-polgins.md)
+* [Utilizing Plugins](utilizing-plugins.md)
 * [General Settings](general-settings.md)
 * [Post Settings](post-settings.md)
 * [Menu Functions](menu-functions.md)
