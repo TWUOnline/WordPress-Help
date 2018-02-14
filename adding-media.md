@@ -7,5 +7,3 @@
 #### [**Media Library Video**](http://umw.domains/wordpress-basics/#media) 
 
 #### [**Adding Images & Other Media**](https://easywpguide.com/wordpress-manual/adding-images-other-media/)
-
-#### [Media Library Overview](https://easywpguide.com/wordpress-manual/media-library/)
