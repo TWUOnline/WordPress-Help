@@ -1,6 +1,6 @@
 ## Getting Started
 
-##### These links will assist you in creating an account with WordPress and setting up your dashboard.
+##### How to create a WordPress account.
 
 #### [Logging in](https://easywpguide.com/wordpress-manual/login/)
 

@@ -12,5 +12,4 @@
 * [Post Settings](post-settings.md)
 * [Menu Functions](menu-functions.md)
 * [Adding and Deleting Users](adding-and-deleting-users.md)
-* [Dashboard Overview](dashboard-overview.md)
 
