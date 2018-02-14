@@ -9,4 +9,5 @@
 * [Deleting Content](deleting-content.md)
 * [Utilizing Polgins](utilizing-polgins.md)
 * [General Settings](general-settings.md)
+* [Post Settings](post-settings.md)
 
