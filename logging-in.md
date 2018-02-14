@@ -7,7 +7,7 @@
 
 #### Dashboard
 
-#### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard) \(video\)
+#### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard) 
 
 #### [Tutorial 2](https://easywpguide.com/wordpress-manual/dashboard/)
 
