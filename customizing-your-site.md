@@ -4,9 +4,9 @@
 
 #### [**Customizing Your Site**](https://easywpguide.com/wordpress-manual/appearance/customizing-your-site/)
 
-#### Adding themes:
+## Adding themes:
 
-#### [What's A Theme](https://codex.wordpress.org/Using_Themes)
+#### [What is a Theme?](https://codex.wordpress.org/Using_Themes)
 
 #### [**Adding a New Theme**](https://easywpguide.com/wordpress-manual/appearance/selecting-your-theme/adding-new-theme/)
 
