@@ -1,6 +1,6 @@
 ## Media
 
-##### These links will assist you in adding media \(ie. images, audio, video, and documents\) in WordPress.
+##### These links will assist you in adding Media \(ie. images, audio, video, and documents\) in WordPress.
 
 #### [Media Library Overview](https://easywpguide.com/wordpress-manual/media-library/)
 
