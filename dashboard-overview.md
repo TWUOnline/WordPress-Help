@@ -1,4 +1,5 @@
 #### Dashboard
+##### These links will assist you in getting acquainted with Your WordPress Dashboard.
 
 #### [Dashboard Video](http://umw.domains/wordpress-basics/#dashboard) 
 

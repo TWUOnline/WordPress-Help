@@ -11,6 +11,6 @@
 * [General Settings](general-settings.md)
 * [Post Settings](post-settings.md)
 * [Menu Functions](menu-functions.md)
-* [Adding and Deleting Users](adding-and-deleting-users.md)
+* [Adding & Deleting Users](adding-and-deleting-users.md)
 * [Frequently Asked Questions](frequently-asked-questions-about-wordpress.md)
 
