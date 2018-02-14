@@ -1,6 +1,6 @@
 ## Getting Started
 
-##### How to create a WordPress account.
+##### Creating a WordPress account.
 
 #### [Logging in](https://easywpguide.com/wordpress-manual/login/)
 
