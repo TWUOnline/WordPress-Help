@@ -5,13 +5,5 @@
 #### [Logging in](https://easywpguide.com/wordpress-manual/login/)
 
 
-#### Dashboard
-
-#### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard) 
-
-#### [Tutorial 2](https://easywpguide.com/wordpress-manual/dashboard/)
-
-#### [Menu Options](https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/)
-
 
 
