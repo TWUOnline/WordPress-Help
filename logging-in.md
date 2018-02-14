@@ -11,7 +11,7 @@
 
 #### [Tutorial 2](https://easywpguide.com/wordpress-manual/dashboard/)
 
-#### [Dashboard Menu Options](https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/)
+#### [Menu Options](https://easywpguide.com/wordpress-manual/dashboard/dashboard-menu-options/)
 
 
 
