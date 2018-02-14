@@ -5,6 +5,6 @@
 
 ##### Links to  using widgets.
 
-#### [Tutorial 1](http://umw.domains/wordpress-basics/#widget) 
+#### [Widgets Video Overview](http://umw.domains/wordpress-basics/#widget) 
 
-#### [Tutorial 2](https://easywpguide.com/wordpress-manual/appearance/widgets/)
+#### [Widget Snapshot](https://easywpguide.com/wordpress-manual/appearance/widgets/)

@@ -1,6 +1,6 @@
 ## Users
 
-##### Please visit these links to assist you with adding and deleting users.
+##### These links will assist you in Adding and Deleting Users.
 
 #### [User Page](https://easywpguide.com/wordpress-manual/users/)
 
