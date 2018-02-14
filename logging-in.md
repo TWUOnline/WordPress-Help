@@ -4,6 +4,7 @@
 
 #### [Logging in](https://easywpguide.com/wordpress-manual/login/)
 
+
 #### Dashboard
 
 #### [Tutorial 1](http://umw.domains/wordpress-basics/#dashboard) \(video\)
